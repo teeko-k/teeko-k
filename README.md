@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! I am Ahmed Kassem aka Tiko K. 👋
+
+- I'm a UX designer
+- I'm currently learning [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [Svelte](https://svelte.dev/) and all things Javascript
+- I also love photography, you can view my work on [YouPic](https://youpic.com/photographer/ahmedtahereng/)
 
 <!--
 **teeko-k/teeko-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
